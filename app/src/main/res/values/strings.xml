@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MojProjekat</string>
+    <string name="login">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Sign up</string>
+    <string name="click_to_login">Already have an account? Click to Sign in</string>
+    <string name="click_to_register">Don\'t have an account? Click to Sign up!</string>
+    <string name="logout">Logout</string>
+</resources>
